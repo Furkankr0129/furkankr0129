@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on linux , python and network
+-  📫 How to reach me: furkankrky01@gmail.com
 
 <!--
 
